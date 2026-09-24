@@ -1,0 +1,27 @@
+# Python
+ml-service/venv/
+ml-service/__pycache__/
+ml-service/*.pyc
+
+# Dataset
+ml-service/ottawashooting.xlsx
+
+# Testing/debug files
+ml-service/check_bert_embedding.py
+ml-service/check_predictions.py
+ml-service/compare_pooling.py
+ml-service/inspect_rf.py
+ml-service/test_model.py
+
+# Java
+RD-backend/target/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+.env.*
+
+ml-service/~$*.xlsx
